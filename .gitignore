@@ -1,0 +1,5 @@
+*.exe
+*.pdf
+*.png
+dist/*
+!dist/README.md
